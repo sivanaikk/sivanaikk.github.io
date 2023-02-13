@@ -296,8 +296,6 @@ img{
 .portfolio__img{
     position: relative;
     overflow: hidden;
-    width: 700px;
-    height: 400px;
 }
 .portfolio__img img{
     border-radius: .5rem;
